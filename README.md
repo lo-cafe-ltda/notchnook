@@ -10,7 +10,7 @@ Visit [getnotchnook.com](https://getnotchnook.com/) for the current download, sy
 
 ## Help
 
-For purchase or activation help, use the [license help page](https://getnotchnook.com/license-help/). For other questions, email [support@getnotchnook.com](mailto:support@getnotchnook.com).
+For purchase or activation help, use the [license help page](https://getnotchnook.com/help). For other questions, email [support@getnotchnook.com](mailto:support@getnotchnook.com).
 
 ## Company
 
@@ -23,4 +23,4 @@ NotchNook is developed and sold by lo.cafe Ltda., a Brazilian software company.
 
 ## Updates
 
-The product website carries current release and pricing information. This repository contains public product documentation.
+See [what’s new](https://getnotchnook.com/whats-new) for releases and [pricing](https://getnotchnook.com/#plans) for current plans. This repository contains public product documentation.
