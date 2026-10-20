@@ -1,8 +1,8 @@
 # NotchNook
 
-Music, calendar, notes, tasks and files, right in your Mac’s notch.
+NotchNook is a notch app for Mac. Keep music, calendar, notes, tasks and files in your MacBook notch, or open the same workspace on a Mac without a notch.
 
-[Download and pricing](https://getnotchnook.com/) · [NotchNook by lo.cafe](https://locafe.app/notchnook/) · [lo.cafe](https://locafe.app/)
+[Official NotchNook website — download and pricing](https://getnotchnook.com/) · [NotchNook by lo.cafe](https://locafe.app/notchnook/) · [Official lo.cafe company website](https://locafe.app/)
 
 ## Getting started
 
