@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NotchNook support
+    url: https://getnotchnook.com/license-help/
+    about: Get help with a purchase or license.
+  - name: Contact the team
+    url: mailto:support@getnotchnook.com
+    about: Ask for help with the app.
